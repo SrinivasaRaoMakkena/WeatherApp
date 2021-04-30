@@ -1,0 +1,1224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/BackroomActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/Fragments/RemovePalletFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/activity/ClaimsShippingEnhancementsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/activity/details_activity/ClaimsCompareTotalVolumeReportActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/activity/list_activity/ClaimsReclaimsListActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/activity/list_activity/ClaimsReturnCenterListActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsAddPartialPackFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsFedexShippingContinueFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsHistoryFilterFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsOnHandSwapFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsRCLLFilterFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsRCTRFilterFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsSUPPFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsSearchItemDetailsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsUpdateQtyFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsVolumeReportingFilterFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/models/enhancedsearchmodels/BinDetail.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/models/enhancedsearchmodels/EnhancedSearchResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/models/enhancedsearchmodels/ItemDetail.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/models/enhancedsearchmodels/Payload.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/models/instrumentationmodels/BoxStatusProp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/models/iteminfolistresponsemodels/ClaimsItemListInfoResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/models/iteminfolistresponsemodels/Item.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/network/ClaimsApiInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/recyclerviewadapters/ClaimsAddToBinRV.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/recyclerviewadapters/ClaimsEnhancedSearchItemListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/recyclerviewadapters/ClaimsRCTRFilterOptionsRV.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/recyclerviewadapters/ClaimsVolumeReportingFIlterExpandableAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/utils/Entensions.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/utils/Logs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/utils/SnackBarUI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/viewModels/EnhancedItemDetailsViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/viewModels/EnhancedItemSearchViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/res/drawable/filter_gray_border_rounded.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/main/res/layout/claims_update_qty_popup.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/Fragments/RemovePalletFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/MockEditable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/adapters/ClaimsAddToBinRVTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/adapters/ClaimsEnhancedSearchItemListAdapterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsAddPartialPackFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsHistoryFilterFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsOnHandSwapFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsRCTRFilterFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsRCTRFiltersFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsSearchItemDetailsFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsSupplierFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsUpdateQuantityFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsVolumeReportingFilterFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/models/EnhancedSearchResponseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/models/PartialPacksTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/ClaimsItemComparatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/ClaimsLIQUIDATIONBinItemsComparatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/ClaimsManifestBinComparatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/ClaimsPOTransfersComparatorTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/ClaimsRCTRBoxItemsComparatorTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/ClaimsSUPPBoxItemsComparatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/ComparatorTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/LogsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/VolumeReportingComparatorTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewmodels/EnhancedItemDetailsViewModelTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/receiving/fragments/IncomingFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/BackroomApp/app/src/test/java/receiving/fragments/RemovePalletFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/.looper.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/BuildSupport/build_tests.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/BackroomApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/activity/ClaimsCameraScanningActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/activity/ClaimsScanningActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/activity/details_activity/ClaimsAddToBinActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/activity/details_activity/ClaimsAddToBoxActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/activity/details_activity/ClaimsDisposeMarkdownActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/activity/details_activity/ClaimsHazmatDisposeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/activity/details_activity/ClaimsHazmatQuestionsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/activity/details_activity/ClaimsHoldItemDetailsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/activity/details_activity/ClaimsMarkdownsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/activity/details_activity/ClaimsRequireReturnAuthActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/activity/details_activity/ClaimsSwapItemToActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsLiquidationFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsPOTransferBoxesFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsRCTRFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsReportDmgFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsSearchItemDetailsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/models/enhancedsearchmodels/EnhancedSearchResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/models/iteminforesponsemodels/ClaimsOpenPayload.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/models/swapitemresponsemodels/ClaimsOnHandSwapItemResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/network/ClaimsApiInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/recyclerviewadapters/ClaimsEnhancedSearchItemListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/utils/UISetters.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/viewModels/EnhancedItemDetailsViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/java/com/samsclub/internal/backroomapp/claims/viewModels/EnhancedItemSearchViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/res/layout/content_claims_create_new_box.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/main/res/layout/fragment_claims_rctr_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/Fragments/ConfirmPalletQtyFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/Fragments/ConfirmationOverLayFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/adapters/ClaimsAddToBinRVTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/adapters/ClaimsEnhancedSearchItemListAdapterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsLiquidationFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsPOTransferBoxesFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsRCTRFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsReportDmgFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsSearchItemDetailsFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/fragments/ClaimsSupplierFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/models/ClaimsErrorResponseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/models/EnhancedSearchResponseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/models/PartialPacksTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/models/additemresponsemodels/ClaimsAddItemResponseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/models/bincloseresponsemodels/ClaimsCloseBinResponseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/models/c2cpotransfersmodels/POFetchEventTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/models/c2cpotransfersmodels/POItemsPayloadTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/models/c2cpotransfersmodels/PoBoxesResponseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/models/c2cpotransfersmodels/TransferPrintTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/models/saveshipmentresponsemodels/ClaimsSaveShipmentResponseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/BYODUtilTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/BinAuditUtilsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/ClaimsItemComparatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/ClaimsLIQUIDATIONBinItemsComparatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/ClaimsManifestBinComparatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/ClaimsPOTransfersComparatorTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/ClaimsRCTRBoxItemsComparatorTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/ClaimsSUPPBoxItemsComparatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/ClaimsSpecialHandlingInsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/DataBindingUtilsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/ErrorUtilsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/KeyboardUtilTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/LogsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/SharedPrefUtilsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/ShippingUtilsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/UISettersTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/utils/VolumeReportingComparatorTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsAddToBoxAdapterVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsAlertMsgVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsBinInfoVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsBinsInfoVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsBoxesInfoVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsCloseBoxVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsComplianceMsgVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsComplianceQuestionsAdapterVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsCreateNewBoxVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsDisposalItemsVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsHistoryCellVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsHistoryDateVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsInfoItemVHTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsItemCostQuantityMarkDownAdapterVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsItemCostQuantityReturnCenterAdapterVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsItemListViewHolderTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsItemsInfoVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsPrintOptionAdapterVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsRCLLFilterOptionsAdapterVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewholders/ClaimsRCTRFilterOptionsAdapterVHTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewmodels/ClaimsAddPartialPackViewModelTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewmodels/ClaimsPOAddToBoxViewModelTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewmodels/ClaimsPOItemViewModelTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewmodels/EnhancedItemDetailsViewModelTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewmodels/EnhancedItemSearchViewModelTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/app/src/test/java/com/samsclub/internal/backroomapp/claims/viewmodels/PartialPackItemViewModelTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/TodayNov30/BackroomApp/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/VideoRecordings/Sams.comKotlinSource/HelloWorld/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/VideoRecordings/Sams.comKotlinSource/HelloWorld/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/VideoRecordings/Sams.comKotlinSource/HelloWorld/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Desktop/VideoRecordings/Sams.comKotlinSource/HelloWorld/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab2_Buttons/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab2_Buttons/app/src/main/java/com/uws/lab2_buttons/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab2_Buttons/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab2_Buttons/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab2_Buttons/app/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab2_Buttons/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab3_MyCity/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab3_MyCity/app/src/main/java/com/uws/lab3_mycity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab3_MyCity/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab3_MyCity/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab3_MyCity/app/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab3_MyCity/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab4_EditText/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab4_EditText/app/src/main/java/com/uws/lab4_edittext/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab4_EditText/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab4_EditText/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab4_EditText/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab7_MediaPlayer/app/src/main/java/com/uws/lab7_mediaplayer/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab7_MediaPlayer/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab7_MediaPlayer/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab7_MyLocation/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab7_MyLocation/app/src/main/java/com/uws/lab7_mylocation/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab7_MyLocation/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Lab7_MyLocation/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Puzzle_Lab5/app/src/main/java/com/uws/puzzle_lab5/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Puzzle_Lab5/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Puzzle_Lab5/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TempConvApp/app/src/main/java/com/uws/tempconvapp/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TempConvApp/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/androidTest/java/com/uws/weatheruws/ExampleInstrumentedTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/Constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/RainForecastAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/RainForecastViewHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/VerticalSpaceItemDecoration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/WeatherDetailsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/current/Clouds.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/current/Coord.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/current/CurrentWeatherResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/current/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/current/Sys.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/current/Weather.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/current/Wind.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/forecast/City.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/forecast/Clouds.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/forecast/Coord.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/forecast/Example.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/forecast/List.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/forecast/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/forecast/Rain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/forecast/Sys.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/forecast/Weather.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/forecast/WeatherForecastResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/models/forecast/Wind.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/network/RetrofitClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/network/WeatherApiInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/ui/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/utils/CommonUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/utils/Constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/utils/CustomProgressDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/utils/DateUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/utils/KeyboardUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/uws/weatheruws/utils/LocationUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/curved_border.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/rounded_corners.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/rounded_corners_blue.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_weather_details.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_progress_dialog.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_weather_forecast.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/weather_forecast_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/weather_toolbar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

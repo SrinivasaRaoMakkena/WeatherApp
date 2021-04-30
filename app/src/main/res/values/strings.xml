@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="search_for_location">Enter city name</string>
+    <string name="time">10:00 am</string>
+    <string name="date">Thu, Dec 02</string>
+    <string name="weather_condition">Cloudy</string>
+    <string name="temperature">270 F</string>
+    <string name="scotland">Scotland</string>
+    <string name="temperature_text">Temperature</string>
+    <string name="temp_feels_like">Temperature (Feels like)</string>
+    <string name="temp_range_f">Temperature (Min-Max in °F)</string>
+    <string name="temp_range_c">Temperature (Min-Max in °C)</string>
+    <string name="weather_description">Description</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="visibility">Visibility</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="wind_direction">Wind Direction</string>
+    <string name="loader_text">Fetching weather data ...!</string>
+</resources>
